@@ -18,3 +18,11 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+const HelloWould= () => {
+  return (
+    <View>
+      <Text>my first app</Text>
+    </View>
+  )
+}
